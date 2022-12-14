@@ -1,0 +1,397 @@
+126
+San Pablo
+Neptuno
+Pajaritos
+Las Rejas
+Ecuador
+San Alberto Hurtado
+Universidad de Santiago
+Estacion Central
+Union Latinoamericana
+Republica
+Los Heroes
+La Moneda
+Universidad de Chile
+Santa Lucia
+Universidad Catolica
+Baquedano
+Salvador
+Manuel Montt
+Pedro de Valdivia
+Los Leones
+Tobalaba
+El Golf
+Alcantara
+Escuela Militar
+Manquehue
+Hernando de Magallanes
+Los Dominicos
+Vespucio Norte
+Zapadores
+Dorsal
+Einstein
+Cementerios
+Cerro Blanco
+Patronato
+Puente Cal y Canto
+Santa Ana
+Toesca
+Parque O'Higgins
+Rondizzoni
+Franklin
+El Llano
+San Miguel
+Lo Vial
+Departamental
+Ciudad del Nino
+Lo Ovalle
+El Parron
+La Cisterna
+El Bosque
+Observatorio
+Copa Lo Martinez
+El Pino
+Plaza de Quilicura
+Lo Cruzat
+Ferrocarril
+Los Libertadores
+Cardenal Caro
+Vivaceta
+Conchali
+Plaza Chacabuco
+Hospitales
+Plaza de Armas
+Parque Almagro
+Matta
+Irarrazaval
+Monsenor Eyzaguirre
+Nunoa
+Chile Espana
+Villa Frei
+Plaza Egana
+Fernando Castillo Velasco
+Cristobal Colon
+Francisco Bilbao
+Principe de Gales
+Simon Bolivar
+Los Orientales
+Grecia
+Los Presidentes
+Quilin
+Las Torres
+Macul
+Vicuna Mackenna
+Vicente Valdes
+Rojas Magallanes
+Trinidad
+San Jose de la Estrella
+Los Quillayes
+Elisa Correa
+Hospital Sotero del Rio
+Protectora de la Infancia
+Las Mercedes
+Plaza de Puente Alto
+San Ramon
+Santa Rosa
+La Granja
+Santa Julia
+Plaza de Maipu
+Santiago Bueras
+Del Sol
+Monte Tabor
+Las Parcelas
+Laguna Sur
+Barrancas
+Pudahuel
+Lo Prado
+Blanqueado
+Gruta de Lourdes
+Quinta Normal
+Cumming
+Bellas Artes
+Parque Bustamante
+Santa Isabel
+Nuble
+Rodrigo de Araya
+Carlos Valdovinos
+Camino Agricola
+San Joaquin
+Pedrero
+Mirador
+Bellavista de La Florida
+Cerrillos
+Lo Valledor
+Presidente Pedro Aguirre Cerda
+Bio Bio
+Estadio Nacional
+Ines de Suarez
+San Pablo,Neptuno,690
+San Pablo,Pudahuel,1580
+San Pablo,Lo Prado,570
+Neptuno,San Pablo,690
+Neptuno,Pajaritos,1030
+Pajaritos,Neptuno,1030
+Pajaritos,Las Rejas,860
+Las Rejas,Pajaritos,860
+Las Rejas,Ecuador,520
+Ecuador,Las Rejas,520
+Ecuador,San Alberto Hurtado,680
+San Alberto Hurtado,Ecuador,680
+San Alberto Hurtado,Universidad de Santiago,540
+Universidad de Santiago,San Alberto Hurtado,540
+Universidad de Santiago,Estacion Central,750
+Estacion Central,Universidad de Santiago,750
+Estacion Central,Union Latinoamericana,630
+Union Latinoamericana,Estacion Central,630
+Union Latinoamericana,Republica,560
+Republica,Union Latinoamericana,560
+Republica,Los Heroes,590
+Los Heroes,Republica,590
+Los Heroes,La Moneda,460
+Los Heroes,Santa Ana,890
+Los Heroes,Toesca,820
+La Moneda,Los Heroes,460
+La Moneda,Universidad de Chile,400
+Universidad de Chile,La Moneda,400
+Universidad de Chile,Santa Lucia,480
+Universidad de Chile,Plaza de Armas,730
+Universidad de Chile,Parque Almagro,840
+Santa Lucia,Universidad de Chile,480
+Santa Lucia,Universidad Catolica,530
+Universidad Catolica,Santa Lucia,530
+Universidad Catolica,Baquedano,660
+Baquedano,Universidad Catolica,660
+Baquedano,Salvador,900
+Baquedano,Bellas Artes,1050
+Baquedano,Parque Bustamante,610
+Salvador,Baquedano,900
+Salvador,Manuel Montt,830
+Manuel Montt,Salvador,830
+Manuel Montt,Pedro de Valdivia,700
+Pedro de Valdivia,Manuel Montt,700
+Pedro de Valdivia,Los Leones,550
+Los Leones,Pedro de Valdivia,550
+Los Leones,Tobalaba,820
+Los Leones,Ines de Suarez,2250
+Tobalaba,Los Leones,820
+Tobalaba,El Golf,620
+Tobalaba,Cristobal Colon,1310
+El Golf,Tobalaba,620
+El Golf,Alcantara,630
+Alcantara,El Golf,630
+Alcantara,Escuela Militar,600
+Escuela Militar,Alcantara,600
+Escuela Militar,Manquehue,1500
+Manquehue,Escuela Militar,1500
+Manquehue,Hernando de Magallanes,1160
+Hernando de Magallanes,Manquehue,1160
+Hernando de Magallanes,Los Dominicos,1080
+Los Dominicos,Hernando de Magallanes,1080
+Vespucio Norte,Zapadores,1500
+Zapadores,Vespucio Norte,1500
+Zapadores,Dorsal,660
+Dorsal,Zapadores,660
+Dorsal,Einstein,1400
+Einstein,Dorsal,1400
+Einstein,Cementerios,920
+Cementerios,Einstein,920
+Cementerios,Cerro Blanco,980
+Cerro Blanco,Cementerios,980
+Cerro Blanco,Patronato,780
+Patronato,Cerro Blanco,780
+Patronato,Puente Cal y Canto,760
+Puente Cal y Canto,Patronato,760
+Puente Cal y Canto,Santa Ana,1290
+Puente Cal y Canto,Hospitales,1680
+Puente Cal y Canto,Plaza de Armas,570
+Santa Ana,Puente Cal y Canto,1290
+Santa Ana,Los Heroes,890
+Santa Ana,Cumming,820
+Santa Ana,Plaza de Armas,870
+Toesca,Los Heroes,820
+Toesca,Parque O'Higgins,960
+Parque O'Higgins,Toesca,960
+Parque O'Higgins,Rondizzoni,950
+Rondizzoni,Parque O'Higgins,950
+Rondizzoni,Franklin,1040
+Franklin,Rondizzoni,1040
+Franklin,El Llano,750
+Franklin,Presidente Pedro Aguirre Cerda,1610
+Franklin,Bio Bio,640
+El Llano,Franklin,750
+El Llano,San Miguel,740
+San Miguel,El Llano,740
+San Miguel,Lo Vial,850
+Lo Vial,San Miguel,850
+Lo Vial,Departamental,640
+Departamental,Lo Vial,640
+Departamental,Ciudad del Nino,770
+Ciudad del Nino,Departamental,770
+Ciudad del Nino,Lo Ovalle,880
+Lo Ovalle,Ciudad del Nino,880
+Lo Ovalle,El Parron,990
+El Parron,Lo Ovalle,990
+El Parron,La Cisterna,1200
+La Cisterna,El Parron,1200
+La Cisterna,El Bosque,910
+La Cisterna,San Ramon,2000
+El Bosque,La Cisterna,910
+El Bosque,Observatorio,1550
+Observatorio,El Bosque,1550
+Observatorio,Copa Lo Martinez,1260
+Copa Lo Martinez,Observatorio,1260
+Copa Lo Martinez,El Pino,1330
+El Pino,Copa Lo Martinez,1330
+Plaza de Quilicura,Lo Cruzat,1000
+Lo Cruzat,Plaza de Quilicura,1000
+Lo Cruzat,Ferrocarril,1530
+Ferrocarril,Lo Cruzat,1530
+Ferrocarril,Los Libertadores,1240
+Los Libertadores,Ferrocarril,1240
+Los Libertadores,Cardenal Caro,1110
+Cardenal Caro,Los Libertadores,1110
+Cardenal Caro,Vivaceta,1600
+Vivaceta,Cardenal Caro,1600
+Vivaceta,Conchali,1560
+Conchali,Vivaceta,1560
+Conchali,Plaza Chacabuco,1310
+Plaza Chacabuco,Conchali,1310
+Plaza Chacabuco,Hospitales,1250
+Hospitales,Plaza Chacabuco,1250
+Hospitales,Puente Cal y Canto,1680
+Plaza de Armas,Puente Cal y Canto,570
+Plaza de Armas,Universidad de Chile,730
+Plaza de Armas,Santa Ana,870
+Plaza de Armas,Bellas Artes,640
+Parque Almagro,Universidad de Chile,840
+Parque Almagro,Matta,1430
+Matta,Parque Almagro,1430
+Matta,Irarrazaval,1400
+Irarrazaval,Matta,1400
+Irarrazaval,Monsenor Eyzaguirre,1350
+Irarrazaval,Santa Isabel,720
+Irarrazaval,Nuble,1650
+Monsenor Eyzaguirre,Irarrazaval,1350
+Monsenor Eyzaguirre,Nunoa,800
+Nunoa,Monsenor Eyzaguirre,800
+Nunoa,Chile Espana,750
+Nunoa,Estadio Nacional,930
+Nunoa,Ines de Suarez,1820
+Chile Espana,Nunoa,750
+Chile Espana,Villa Frei,1540
+Villa Frei,Chile Espana,1540
+Villa Frei,Plaza Egana,890
+Plaza Egana,Villa Frei,890
+Plaza Egana,Simon Bolivar,840
+Plaza Egana,Los Orientales,1020
+Cristobal Colon,Tobalaba,1310
+Cristobal Colon,Francisco Bilbao,780
+Francisco Bilbao,Cristobal Colon,780
+Francisco Bilbao,Principe de Gales,1420
+Principe de Gales,Francisco Bilbao,1420
+Principe de Gales,Simon Bolivar,760
+Simon Bolivar,Principe de Gales,760
+Simon Bolivar,Plaza Egana,840
+Los Orientales,Plaza Egana,1020
+Los Orientales,Grecia,830
+Grecia,Los Orientales,830
+Grecia,Los Presidentes,1210
+Los Presidentes,Grecia,1210
+Los Presidentes,Quilin,900
+Quilin,Los Presidentes,900
+Quilin,Las Torres,1370
+Las Torres,Quilin,1370
+Las Torres,Macul,1190
+Macul,Las Torres,1190
+Macul,Vicuna Mackenna,1300
+Vicuna Mackenna,Macul,1300
+Vicuna Mackenna,Vicente Valdes,760
+Vicuna Mackenna,Santa Julia,1620
+Vicente Valdes,Vicuna Mackenna,760
+Vicente Valdes,Rojas Magallanes,1200
+Vicente Valdes,Bellavista de La Florida,770
+Rojas Magallanes,Vicente Valdes,1200
+Rojas Magallanes,Trinidad,1140
+Trinidad,Rojas Magallanes,1140
+Trinidad,San Jose de la Estrella,840
+San Jose de la Estrella,Trinidad,840
+San Jose de la Estrella,Los Quillayes,890
+Los Quillayes,San Jose de la Estrella,890
+Los Quillayes,Elisa Correa,930
+Elisa Correa,Los Quillayes,930
+Elisa Correa,Hospital Sotero del Rio,790
+Hospital Sotero del Rio,Elisa Correa,790
+Hospital Sotero del Rio,Protectora de la Infancia,1470
+Protectora de la Infancia,Hospital Sotero del Rio,1470
+Protectora de la Infancia,Las Mercedes,1300
+Las Mercedes,Protectora de la Infancia,1300
+Las Mercedes,Plaza de Puente Alto,750
+Plaza de Puente Alto,Las Mercedes,750
+San Ramon,La Cisterna,2000
+San Ramon,Santa Rosa,820
+Santa Rosa,San Ramon,820
+Santa Rosa,La Granja,1710
+La Granja,Santa Rosa,1710
+La Granja,Santa Julia,1570
+Santa Julia,La Granja,1570
+Santa Julia,Vicuna Mackenna,1620
+Plaza de Maipu,Santiago Bueras,1530
+Santiago Bueras,Plaza de Maipu,1530
+Santiago Bueras,Del Sol,810
+Del Sol,Santiago Bueras,810
+Del Sol,Monte Tabor,1050
+Monte Tabor,Del Sol,1050
+Monte Tabor,Las Parcelas,940
+Las Parcelas,Monte Tabor,940
+Las Parcelas,Laguna Sur,1600
+Laguna Sur,Las Parcelas,1600
+Laguna Sur,Barrancas,1220
+Barrancas,Laguna Sur,1220
+Barrancas,Pudahuel,960
+Pudahuel,Barrancas,960
+Pudahuel,San Pablo,1580
+Lo Prado,San Pablo,570
+Lo Prado,Blanqueado,860
+Blanqueado,Lo Prado,860
+Blanqueado,Gruta de Lourdes,1520
+Gruta de Lourdes,Blanqueado,1520
+Gruta de Lourdes,Quinta Normal,1080
+Quinta Normal,Gruta de Lourdes,1080
+Quinta Normal,Cumming,1090
+Cumming,Quinta Normal,1090
+Cumming,Santa Ana,820
+Bellas Artes,Plaza de Armas,640
+Bellas Artes,Baquedano,1050
+Parque Bustamante,Baquedano,610
+Parque Bustamante,Santa Isabel,500
+Santa Isabel,Parque Bustamante,500
+Santa Isabel,Irarrazaval,720
+Nuble,Irarrazaval,1650
+Nuble,Rodrigo de Araya,1240
+Nuble,Bio Bio,2120
+Nuble,Estadio Nacional,1960
+Rodrigo de Araya,Nuble,1240
+Rodrigo de Araya,Carlos Valdovinos,1060
+Carlos Valdovinos,Rodrigo de Araya,1060
+Carlos Valdovinos,Camino Agricola,540
+Camino Agricola,Carlos Valdovinos,540
+Camino Agricola,San Joaquin,790
+San Joaquin,Camino Agricola,790
+San Joaquin,Pedrero,1090
+Pedrero,San Joaquin,1090
+Pedrero,Mirador,850
+Mirador,Pedrero,850
+Mirador,Bellavista de La Florida,920
+Bellavista de La Florida,Mirador,920
+Bellavista de La Florida,Vicente Valdes,770
+Cerrillos,Lo Valledor,1570
+Lo Valledor,Cerrillos,1570
+Lo Valledor,Presidente Pedro Aguirre Cerda,1480
+Presidente Pedro Aguirre Cerda,Lo Valledor,1480
+Presidente Pedro Aguirre Cerda,Franklin,1610
+Bio Bio,Franklin,640
+Bio Bio,Nuble,2120
+Estadio Nacional,Nuble,1960
+Estadio Nacional,Nunoa,930
+Ines de Suarez,Nunoa,1820
+Ines de Suarez,Los Leones,2250
